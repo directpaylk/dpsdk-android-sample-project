@@ -1,0 +1,3 @@
+include ':dpsdk'
+include ':app'
+rootProject.name = "PaymentDemo"

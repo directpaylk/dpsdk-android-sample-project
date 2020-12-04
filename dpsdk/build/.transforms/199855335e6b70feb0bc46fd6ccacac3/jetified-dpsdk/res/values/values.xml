@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#a1a3a1</color>
+    <color name="colorAccentDark">#555555</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000053</color>
+    <color name="colorPrimaryFaded">#d6dbe9</color>
+    <color name="dpPrimary">#012480</color>
+    <color name="dptext">#ffffff</color>
+    <string name="app_name">DPSDK</string>
+    <string name="gateway_3d_secure_authentication">3-D Secure Authentication</string>
+    <string name="gateway_error_missing_3d_secure_id">Missing 3-D Secure Id</string>
+    <string name="gateway_error_missing_summary_status">Missing summary status</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
