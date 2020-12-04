@@ -3,7 +3,7 @@ DirectPay sample project for android integration. This sdk helps you to add new 
 
 ## Download DirectPay Android SDK
 
-<a :href="https://doc.directpay.lk/sdk/dpsdk.aar">Click to Download SDK</a>
+[Click](https://doc.directpay.lk/sdk/dpsdk.aar) to Download SDK</a>
 
 ## Specifications
 
